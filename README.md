@@ -28,7 +28,7 @@ A compilation of resources for general computational science It'll tend to be he
 ## Linear Algebra Libraries:
 
 * [Elemental](https://github.com/elemental/Elemental)
-* []
+* [PetSc](https://github.com/petsc/petsc)
 ## Freely Accessible PDFs:
 
 * [Solving PDEs in Python - The FEniCS tutorial VOlume 1](https://fenicsproject.org/pub/tutorial/pdf/fenics-tutorial-vol1.pdf): ~150 pages.
