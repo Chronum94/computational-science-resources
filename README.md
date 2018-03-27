@@ -33,7 +33,7 @@ A compilation of resources for general computational science It'll tend to be he
 
 * [Solving PDEs in Python - The FEniCS tutorial VOlume 1](https://fenicsproject.org/pub/tutorial/pdf/fenics-tutorial-vol1.pdf): ~150 pages.
 * [Automated Solutions of Differential Equations by the Finite Element Method](https://fenicsproject.org/pub/book/book/fenics-book-2011-06-14.pdf): ~750 pages.
-* [A gentle introduction to the Finite Element Method](http://arturo.imati.cnr.it/~marini/didattica/Metodi-engl/Intro2FEM.pdf)
+* [A gentle introduction to the Finite Element Method](http://arturo.imati.cnr.it/~marini/didattica/Metodi-engl/Intro2FEM.pdf): ~100 pages.
 * [Finite Difference Computing with Exponential Decay Models](https://hplgit.github.io/decay-book/doc/pub/book/pdf/decay-book-4print.pdf): ~250 pages.
 * [Matrix Computations](http://web.mit.edu/ehliu/Public/sclark/Golub%20G.H.,%20Van%20Loan%20C.F.-%20Matrix%20Computations.pdf): ~700 pages.
 ## Notebook repos:
