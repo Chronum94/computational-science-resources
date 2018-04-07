@@ -4,7 +4,7 @@ A compilation of resources for general computational science It'll tend to be he
 ## Finite Element/Multiphysics Libraries:
 
 * [libMesh](https://github.com/libMesh/libmesh)
-* [FEniCS](https://bitbucket.org/fenics-project/)
+* [FEniCS](https://bitbucket.org/fenics-project/): Automated PDE solving using finite elements.
 * [deal.II](https://github.com/dealii/dealii)
 * [SU2](https://github.com/su2code/SU2)
 * [Moose](https://github.com/idaholab/moose)
@@ -15,7 +15,7 @@ A compilation of resources for general computational science It'll tend to be he
 
 ## Eigenvalue Libraries:
 
-* [Spectra](https://github.com/yixuan/spectra)
+* [Spectra](https://github.com/yixuan/spectra): HEader-only Arpack-inspired eigenproblem package based on Eigen.
 * [Arpack-ng](https://github.com/opencollab/arpack-ng)
 
 ## Computational Electromagnetics:
@@ -27,7 +27,7 @@ A compilation of resources for general computational science It'll tend to be he
 
 ## Sparse/Dense Linear Algebra Libraries:
 * [Armadillo](http://arma.sourceforge.net/)
-* [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
+* [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page): Header-only linear algebra library using expression templates.
 * [Elemental](https://github.com/elemental/Elemental)
 * [FLAME](https://github.com/flame/libflame)
 * [PetSc](https://github.com/petsc/petsc)
@@ -44,6 +44,9 @@ A compilation of resources for general computational science It'll tend to be he
 
 * [Numerical Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
 * [Numerical Methods for PDEs](https://github.com/hplgit/num-methods-for-PDEs)
+
+## Programming productivity/safety tools:
+* [Archer](https://github.com/PRUNERS/archer): OpenMP thread sanitizer.
 
 ## Tutorial Repos:
 * [MPI Tutorial](https://github.com/wesleykendall/mpitutorial)
