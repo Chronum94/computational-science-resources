@@ -5,6 +5,7 @@ A compilation of resources for general computational science It'll tend to be he
 
 * [libMesh](https://github.com/libMesh/libmesh)
 * [FEniCS](https://bitbucket.org/fenics-project/): Automated PDE solving using finite elements.
+* [Feel++](https://github.com/feelpp/feelpp)
 * [deal.II](https://github.com/dealii/dealii)
 * [SU2](https://github.com/su2code/SU2)
 * [Moose](https://github.com/idaholab/moose)
