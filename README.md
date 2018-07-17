@@ -1,6 +1,12 @@
 # computational-science-resources
 A compilation of resources for general computational science It'll tend to be heavily biased towards my work, but hopefully be useful nevertheless.
 
+
+## Materials Science Libraries:
+
+* [ABINIT](https://github.com/abinit/abinit)
+* [Psi4](https://github.com/psi4/psi4)
+
 ## Finite Element/Multiphysics Libraries:
 
 * [libMesh](https://github.com/libMesh/libmesh)
